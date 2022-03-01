@@ -7,4 +7,5 @@ Steps:
 2. Run `cmake ..`
 3. Run `make`
 4. Run `./simplecalc`
+test
 
